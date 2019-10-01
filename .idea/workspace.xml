@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd1b69ec-dbee-42ed-a9bd-d70937e97b60" name="Default" comment="" />
+    <list default="true" id="dd1b69ec-dbee-42ed-a9bd-d70937e97b60" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,11 +28,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="start_yetti_cube.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="start_yetti_cube.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/start_yetti_cube.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="19">
               <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="243" lean-forward="true" selection-start-line="243" selection-end-line="243" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="152">
+                <caret line="8" column="72" lean-forward="true" selection-start-line="8" selection-start-column="72" selection-end-line="8" selection-end-column="72" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -140,6 +166,9 @@
       <replace>.txt</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -167,6 +196,8 @@
         <option value="$PROJECT_DIR$/MidiController.py" />
         <option value="$PROJECT_DIR$/RoutineManager.py" />
         <option value="$PROJECT_DIR$/start_yetti_cube.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -177,10 +208,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1503" />
-    <option name="y" value="-1092" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-14" />
+    <option name="y" value="-14" />
+    <option name="width" value="3029" />
+    <option name="height" value="1938" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -208,7 +239,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Adafruit-Motor-HAT-Python-Library/examples/DualStepperTest.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
@@ -490,60 +521,61 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1503" y="-1092" width="1936" height="1056" extended-state="6" />
+    <frame x="-6" y="-6" width="1346" height="861" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32897604" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50159913" side_tool="true" weight="0.41721132" />
-      <window_info anchor="right" x="0" y="0" width="286" height="661" id="Documentation" order="7" sideWeight="0.51960784" side_tool="true" visible="true" weight="0.18923241" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" order="11" weight="0.25490198" />
+      <window_info anchor="bottom" id="File Transfer" order="9" sideWeight="0.4978678" visible="true" weight="0.2517194" />
       <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4989339" weight="0.39752406" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.25490198" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32897604" />
       <window_info anchor="right" id="Remote Host" order="6" sideWeight="0.49673203" weight="0.32995737" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.124200426" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1255814" />
       <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info active="true" anchor="right" id="SciView" order="4" sideWeight="0.48039216" visible="true" weight="0.18923241" />
+      <window_info active="true" anchor="right" id="SciView" order="4" sideWeight="0.48039216" visible="true" weight="0.1891473" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Favorites" order="2" side_tool="true" weight="0.3287483" />
       <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49840087" weight="0.4204793" />
+      <window_info anchor="bottom" id="Favorites" order="2" side_tool="true" weight="0.3287483" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" id="Data View" order="5" />
+      <window_info anchor="right" x="0" y="0" width="286" height="661" id="Documentation" order="7" sideWeight="0.51960784" side_tool="true" visible="true" weight="0.18923241" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="File Transfer" order="9" sideWeight="0.4978678" visible="true" weight="0.2517194" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
     </layout>
     <layout-to-restore>
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="7" sideWeight="0.5174292" side_tool="true" visible="true" weight="0.26066098" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18070363" />
       <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.4989339" visible="true" weight="0.42265797" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="right" id="Remote Host" order="6" sideWeight="0.49673203" weight="0.32995737" />
+      <window_info anchor="bottom" id="Favorites" order="2" side_tool="true" weight="0.3287483" />
       <window_info anchor="right" id="Data View" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.4989339" visible="true" weight="0.42265797" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
-      <window_info anchor="bottom" id="Python Console" order="11" weight="0.25490198" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="7" sideWeight="0.5174292" side_tool="true" visible="true" weight="0.26066098" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18070363" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.33769062" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32953864" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5010661" side_tool="true" weight="0.40087146" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="SciView" order="4" sideWeight="0.4825708" visible="true" weight="0.20202559" />
       <window_info anchor="bottom" id="File Transfer" order="9" sideWeight="0.4989339" weight="0.20152505" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Favorites" order="2" side_tool="true" weight="0.3287483" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.25490198" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -640,14 +672,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MotorController.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routines/test_lower_level_rt.txt" />
     <entry file="file://$PROJECT_DIR$/RoutineManager.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -835,6 +859,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="243" lean-forward="true" selection-start-line="243" selection-end-line="243" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="152">
+            <caret line="8" column="72" lean-forward="true" selection-start-line="8" selection-start-column="72" selection-end-line="8" selection-end-column="72" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
