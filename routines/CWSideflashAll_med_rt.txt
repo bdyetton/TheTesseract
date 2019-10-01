@@ -1,0 +1,36 @@
+device	var							
+all	beats	4		4		4		4
+all	routine	"[CW_sideflash_base_B1_rt,CW_sideflash_base_B2_rt,CW_sideflash_base_B3_rt,CW_sideflash_base_T1_rt,CW_sideflash_base_T2_rt,CW_sideflash_base_T3_rt]"		"[CW_sideflash_base_B1_rt,CW_sideflash_base_B2_rt,CW_sideflash_base_B3_rt,CW_sideflash_base_T1_rt,CW_sideflash_base_T2_rt,CW_sideflash_base_T3_rt]"		"[CW_sideflash_base_B1_rt,CW_sideflash_base_B2_rt,CW_sideflash_base_B3_rt,CW_sideflash_base_T1_rt,CW_sideflash_base_T2_rt,CW_sideflash_base_T3_rt]"		"[CW_sideflash_base_B1_rt,CW_sideflash_base_B2_rt,CW_sideflash_base_B3_rt,CW_sideflash_base_T1_rt,CW_sideflash_base_T2_rt,CW_sideflash_base_T3_rt]"
+motor	angle							
+motor	speed							
+laser	hside1							
+laser	hside2							
+laser	hside3							
+laser	bside1							
+laser	bside2							
+laser	bside3							
+leds	bright							
+leds	face_T1							
+leds	side_T1_NE							
+leds	led_T1_NE_0							
+leds	led_T1_NE_1							
+leds	led_T1_NE_2							
+leds	led_T1_NE_3							
+leds	led_T1_NE_4							
+leds	led_T1_NE_5							
+leds	led_T1_NE_6							
+leds	side_T1_SE							
+leds	led_T1_SE_0							
+leds	led_T1_SE_1							
+leds	led_T1_SE_2							
+leds	led_T1_SE_3							
+leds	led_T1_SE_4							
+leds	led_T1_SE_5							
+leds	led_T1_SE_6							
+leds	side_T1_SW							
+leds	side_T1_NW							
+leds	face_T2							
+leds	face_T3							
+leds	face_B1							
+leds	face_B2							
+leds	face_B3							

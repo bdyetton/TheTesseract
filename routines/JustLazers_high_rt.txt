@@ -1,0 +1,13 @@
+device	var																																
+all	beats	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05
+all	routine																																
+motor	angle																																
+motor	speed																																
+laser	hside12	1		1	1	1		1	1	1		1	1	1		1	1	1		1	1	1		1	1	1		1	1	1		1	1
+laser	hside23			1					1						1					1						1					1		
+laser	hside31	1			1			1	1	1		1	1			1			1	1	1		1	1			1			1	1	1	
+laser	bside12					1	1	1									1	1	1									1	1	1			
+laser	bside23		1			1					1			1			1					1			1			1					1
+laser	bside31		1					1	1					1					1	1					1					1	1		
+laser	top	1	1	1	1								1	1	1	1								1	1	1	1						
+leds	bright																																

@@ -1,0 +1,19 @@
+device	var														
+all	beats	2	0.67	0.66	0.67	2	0.75	0.25	2	0.67	0.66	0.67	2	0.75	0.25
+all	routine	"[Twinkle_B1_base_rt,Twinkle_T1_base_rt]"				"[Twinkle_B1_base_rt,Twinkle_T1_base_rt]"			"[Twinkle_B1_base_rt,Twinkle_T1_base_rt]"				"[Twinkle_B2_base_rt,Twinkle_T2_base_rt]"		
+motor	angle														
+motor	speed														
+laser	hside12		1					1		1					1
+laser	hside23			1				1			1				1
+laser	hside13				1			1				1			1
+laser	bside12		1					1		1					1
+laser	bside23			1				1			1				1
+laser	bside31				1			1				1			1
+laser	top														
+leds	bright														1
+leds	face_T1														2
+leds	face_T2														2
+leds	face_T3														2
+leds	face_B1														2
+leds	face_B2														2
+leds	face_B3														2

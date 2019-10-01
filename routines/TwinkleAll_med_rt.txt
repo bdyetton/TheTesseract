@@ -1,0 +1,202 @@
+device	var																																
+all	beats	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2
+all	routine																																
+motor	angle																																
+motor	speed																																
+laser	hside1																																
+laser	hside2																																
+laser	hside3																																
+laser	bside1																																
+laser	bside2																																
+laser	bside3																																
+leds	bright	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+leds	face_T1																																
+leds	face_T2																																
+leds	face_T3																																
+leds	face_B1																																
+leds	face_B2																																
+leds	face_B3																																
+leds	side_T1_NE																																
+leds	side_T1_SE																																
+leds	side_T1_SW																																
+leds	side_T1_NW																																
+leds	led_B1_NE_0																													2		2	
+leds	led_B1_NE_1								1		1															2							
+leds	led_B1_NE_2											1			1		1							1	1				2			1	
+leds	led_B1_NE_3			1				2									2	1										1		1		2	2
+leds	led_B1_NE_4			1												2		1				1							1		2		
+leds	led_B1_NE_5				1		1		2										1							1			1		1	2	
+leds	led_B1_NE_6											2								1										1			
+leds	led_B1_SE_0	1						2			2			2			1																
+leds	led_B1_SE_1			1					1							1				2								1			1		
+leds	led_B1_SE_2	2						1																1									2
+leds	led_B1_SE_3													2																			
+leds	led_B1_SE_4		2								2						2								1		1						
+leds	led_B1_SE_5		2					1	2				1																				
+leds	led_B1_SE_6	1	1					2	1		1									1					1	1							
+leds	led_B1_SE_7								2						1		1	1				2											
+leds	led_B1_SW_0		1	1		2									2				2						1								2
+leds	led_B1_SW_1					1														2											1		
+leds	led_B1_SW_2			2													1																
+leds	led_B1_SW_3										2					2		1					1										
+leds	led_B1_SW_4						2		2	2	1	1				2							2				2						
+leds	led_B1_SW_5			2							2			1			2			1													2
+leds	led_B1_SW_6															2						1							1		1		2
+leds	led_B1_NW_0									1															2		2						
+leds	led_B1_NW_1			1																							1	2		2			
+leds	led_B1_NW_2				1		1								2				2														
+leds	led_B1_NW_3		2		1	2						2										2	1			1							
+leds	led_B1_NW_4						2						1	1									2			2		1					
+leds	led_B1_NW_5					1																					2					1	
+leds	led_B1_NW_6							2																									
+leds	led_B1_NW_7										2								2		1	1							1				
+leds	led_B2_NE_0		1						2				2	1					2						1							2	
+leds	led_B2_NE_1					1													1								2	2					
+leds	led_B2_NE_2						2	1		2																2							
+leds	led_B2_NE_3			2	1		2			2								1											2				
+leds	led_B2_NE_4								2															2									
+leds	led_B2_NE_5											1						1			2		2							1			
+leds	led_B2_SE_0			1											2					1									2				1
+leds	led_B2_SE_1									2																							
+leds	led_B2_SE_2			2												1																	
+leds	led_B2_SE_3																				1									2			
+leds	led_B2_SE_4				2				1									2		2		2								1			
+leds	led_B2_SE_5								2										2	1	2					2		1			2		
+leds	led_B2_SE_6																				2			2	2								
+leds	led_B2_SE_7	1			2		2					1	2							2	2	1							2				
+leds	led_B2_SW_0					2																											
+leds	led_B2_SW_1			1	2				2				2						1														
+leds	led_B2_SW_2					2			2								2								1			2		1			
+leds	led_B2_SW_3							1	2			2		2						2													
+leds	led_B2_SW_4								1							2		2		1	2				1						2		
+leds	led_B2_SW_5	1					1						2											1		1			1				
+leds	led_B2_SW_6							2			1											1						2			1	2	1
+leds	led_B2_SW_7			1			1			1			1									2										1	
+leds	led_B2_NW_0					1									2				2				1							1	2		
+leds	led_B2_NW_1	1		1				1			1	1					1			2													
+leds	led_B2_NW_2		2			1		1				1																					2
+leds	led_B2_NW_3												1																				
+leds	led_B2_NW_4						1				2		1		1		2		2				2										
+leds	led_B2_NW_5					1			1	2		1									1	1											
+leds	led_B2_NW_6		1		1										2								2										
+leds	led_B2_NW_7																										1					1	
+leds	led_B3_NE_0	1						1										1		1			1			1							
+leds	led_B3_NE_1																												1				
+leds	led_B3_NE_2									2			1			1	1						1		1				1				
+leds	led_B3_NE_3						2							1									1										
+leds	led_B3_NE_4					2	1																			1							
+leds	led_B3_NE_5						2						1		1													1					
+leds	led_B3_NE_6		2					1		1																							
+leds	led_B3_NE_7	2		1				2						2	2		1					1	2			2					1		
+leds	led_B3_SE_0		1		1							2									2			1	1							1	
+leds	led_B3_SE_1					2										1										1			2				1
+leds	led_B3_SE_2							2								1											1			1			
+leds	led_B3_SE_3			1		2					2	1			2						2			2				1	1	2			2
+leds	led_B3_SE_4			1																	2												
+leds	led_B3_SE_5					2															1				2								
+leds	led_B3_SE_6																		2					1			2			1			
+leds	led_B3_SE_7						1					1							2				2		1				2				
+leds	led_B3_SW_0	2				2														2					2					1			
+leds	led_B3_SW_1															1	2					2										2	
+leds	led_B3_SW_2						2	2		1								2			2												2
+leds	led_B3_SW_3	1				1					1	2					1				2						2						1
+leds	led_B3_SW_4		1								1																						
+leds	led_B3_SW_5			2	1			2				2				1	2											2				1	
+leds	led_B3_SW_6						1								1										1								
+leds	led_B3_SW_7	1									1												2					2					
+leds	led_B3_NW_0		1					2			2		1							2			1										
+leds	led_B3_NW_1			2		2						2		1						2													
+leds	led_B3_NW_2									2		1	1			2										2					1		
+leds	led_B3_NW_3						1				1							2													2		
+leds	led_B3_NW_4					1		2									2						1										
+leds	led_B3_NW_5								2															1		2							
+leds	led_T1_NE_0	2		2			2				1	2	2		1																		2
+leds	led_T1_NE_1						2	2											1									1					2
+leds	led_T1_NE_2													2			1												2				2
+leds	led_T1_NE_3																																
+leds	led_T1_NE_4							2									2	1							1			1			2		
+leds	led_T1_NE_5				2			1																				2					
+leds	led_T1_NE_6							2		1											2								2				
+leds	led_T1_SE_0			2			2			2													2		1	1		2					2
+leds	led_T1_SE_1			2	1									1	2												2				1	2	
+leds	led_T1_SE_2					1																	2					1			1	1	
+leds	led_T1_SE_3										1											1											
+leds	led_T1_SE_4	2			1	1	1																							1			2
+leds	led_T1_SE_5	1	1							2			1																	2	1		
+leds	led_T1_SE_6	1				2													2														
+leds	led_T1_SW_0						1										1			2		2			2								1
+leds	led_T1_SW_1																			1	1									1			
+leds	led_T1_SW_2				1														1			2								1			
+leds	led_T1_SW_3			2			2															1											
+leds	led_T1_SW_4								1									1				2		2									2
+leds	led_T1_SW_5					2			2	2								1		1					1			2					
+leds	led_T1_SW_6																							1	1						2		
+leds	led_T1_SW_7		2		1								2							2	2	2		1						2			
+leds	led_T1_NW_0	2					2	1	1																								
+leds	led_T1_NW_1			1	2													1				2	1										
+leds	led_T1_NW_2										1										2	2											
+leds	led_T1_NW_3																								1						2	1	
+leds	led_T1_NW_4								2									1									2				1		
+leds	led_T1_NW_5		1																	2											1		
+leds	led_T1_NW_6	2				2			2				2		2					1	2									2			
+leds	led_T1_NW_7	1	1									1					1				2	1		1						2			
+leds	led_T2_NE_0												1					1				1					1		1				
+leds	led_T2_NE_1														1				1		2	1		1		1							
+leds	led_T2_NE_2							2				1				1	2	2										1					
+leds	led_T2_NE_3					1								1				1	2			1		1				2					
+leds	led_T2_NE_4	2		1			1			1																							
+leds	led_T2_NE_5				1										2		2													2			
+leds	led_T2_NE_6			1											2			1				1		2				2	1		1	1	
+leds	led_T2_SE_0									2		1							1										1				
+leds	led_T2_SE_1									1									1				2							2			
+leds	led_T2_SE_2																													2			
+leds	led_T2_SE_3																		2								2						
+leds	led_T2_SE_4		1		1																											2	
+leds	led_T2_SE_5		2			1																											
+leds	led_T2_SE_6				2						2								2									2					1
+leds	led_T2_SE_7			1																										1			
+leds	led_T2_SW_0										1																			2			
+leds	led_T2_SW_1	1			2									1									1									2	
+leds	led_T2_SW_2									2				2								1				1	1			1			
+leds	led_T2_SW_3	1			1														2							1							
+leds	led_T2_SW_4			1								1				1	2											2			1		
+leds	led_T2_SW_5			2				2						1						2					1							2	
+leds	led_T2_SW_6					1	1		1		2	2														1							
+leds	led_T2_SW_7					2																											
+leds	led_T2_NW_0									1	2			2								2					1						
+leds	led_T2_NW_1			2		2		2						2				1					1		1								
+leds	led_T2_NW_2	2	1																									2					1
+leds	led_T2_NW_3	1										2																			1		
+leds	led_T2_NW_4		1			2		1								2									1			1					
+leds	led_T2_NW_5								1										2							1				2			
+leds	led_T2_NW_6		1																					1								1	
+leds	led_T3_NE_0				1							1				2						2	1	1									
+leds	led_T3_NE_1			1	1				1																								
+leds	led_T3_NE_2															2									2	1	2		1				
+leds	led_T3_NE_3					1						2				1				1				2				1					
+leds	led_T3_NE_4	1	1					1		2							2			2	2						2						2
+leds	led_T3_NE_5																											2					
+leds	led_T3_NE_6							2					2	1				2		2							1		1				
+leds	led_T3_NE_7		1		1					2								1	2	1						1							
+leds	led_T3_SE_0							1																									2
+leds	led_T3_SE_1												2																		2		
+leds	led_T3_SE_2	1											2					2	1	1					2								1
+leds	led_T3_SE_3	1										1	2																	1			
+leds	led_T3_SE_4		1				2		2				2																		1		
+leds	led_T3_SE_5											1		2		1			2				1		1								
+leds	led_T3_SE_6		1											1							2					2							2
+leds	led_T3_SE_7											1																					
+leds	led_T3_SW_0									2													1										
+leds	led_T3_SW_1		1					2			1			2		2					2							2				2	
+leds	led_T3_SW_2				1			1										2	1			1				1		2			2		
+leds	led_T3_SW_3				1									2									1			1							
+leds	led_T3_SW_4				2															1						2				2	2		2
+leds	led_T3_SW_5				2					2		1	2		2										2			2			2	1	
+leds	led_T3_SW_6											1		1						1						1					1		
+leds	led_T3_NW_0					2									1			2					2			1		1				2	
+leds	led_T3_NW_1					1													1				2		2			1	1				
+leds	led_T3_NW_2									2						2							1	1									
+leds	led_T3_NW_3					1						2					2										2	1	2				
+leds	led_T3_NW_4			2							1	2	1			2		2										2					
+leds	led_T3_NW_5									1				1																			
+leds	led_T3_NW_6		1						2									2		2				1									

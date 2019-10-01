@@ -1,0 +1,52 @@
+device	var																																
+all	beats	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05	0.05
+all	routine																																
+motor	angle																																
+motor	speed																																
+laser	hside1																																
+laser	hside2																																
+laser	hside3																																
+laser	bside1																																
+laser	bside2																																
+laser	bside3																																
+leds	bright	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+leds	face_T1																																
+leds	face_T2																																
+leds	face_T3																																
+leds	face_B1																																
+leds	face_B2																																
+leds	face_B3																																
+leds	side_T1_NE																																
+leds	side_T1_SE																																
+leds	side_T1_SW																																
+leds	side_T1_NW																																
+leds	led_T1_NE_0	1																															
+leds	led_T1_NE_1		1																														
+leds	led_T1_NE_2			1																													
+leds	led_T1_NE_3				1																												
+leds	led_T1_NE_4					1																											
+leds	led_T1_NE_5						1																										
+leds	led_T1_NE_6							1	1																								
+leds	led_T1_SE_0									1																							
+leds	led_T1_SE_1										1																						
+leds	led_T1_SE_2											1																					
+leds	led_T1_SE_3												1																				
+leds	led_T1_SE_4													1																			
+leds	led_T1_SE_5														1																		
+leds	led_T1_SE_6															1	1																
+leds	led_T1_SW_0																	1															
+leds	led_T1_SW_1																		1														
+leds	led_T1_SW_2																			1													
+leds	led_T1_SW_3																				1												
+leds	led_T1_SW_4																					1											
+leds	led_T1_SW_5																						1										
+leds	led_T1_SW_6																							1									
+leds	led_T1_SW_7																								1								
+leds	led_T1_NW_0																									1							
+leds	led_T1_NW_1																										1						
+leds	led_T1_NW_2																											1					
+leds	led_T1_NW_3																												1				
+leds	led_T1_NW_4																													1			
+leds	led_T1_NW_5																														1		
+leds	led_T1_NW_6																															1	
+leds	led_T1_NW_7																																1

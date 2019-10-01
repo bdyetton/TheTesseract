@@ -1,0 +1,22 @@
+device	var				
+all	beats	1	1	1	1
+all	routine				
+motor	angle				
+motor	speed				
+laser	hside1				
+laser	hside2				
+laser	hside3				
+laser	bside1				
+laser	bside2				
+laser	bside3				
+leds	bright	1	1	1	1
+leds	face_T1				
+leds	face_T2				
+leds	face_T3				
+leds	face_B1				
+leds	face_B2				
+leds	face_B3				
+leds	side_T2_NE	1
+leds	side_T2_SE		1
+leds	side_T2_SW			1
+leds	side_T2_NW				1

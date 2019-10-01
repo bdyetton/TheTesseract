@@ -1,0 +1,42 @@
+device	var																
+all	beats	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5
+all	routine																
+motor	angle																
+motor	speed																
+laser	hside1																
+laser	hside2																
+laser	hside3																
+laser	bside1																
+laser	bside2																
+laser	bside3																
+leds	bright	0.3	0.4	0.5	0.6	0.7	0.8	0.9	1	0.9	0.8	0.7	0.6	0.5	0.4	0.3	0.2
+leds	face_T1																
+leds	face_T2																
+leds	face_T3																
+leds	face_B1																
+leds	face_B2																
+leds	face_B3																
+leds	side_B1_NE	1				1				1				1			
+leds	side_B1_SE																
+leds	side_B1_SW	1				1				1				1			
+leds	side_B1_NW																
+leds	side_B2_NE																
+leds	side_B2_SE																
+leds	side_B2_SW																
+leds	side_B2_NW																
+leds	side_B3_NE				1				1				1				1
+leds	side_B3_SE																
+leds	side_B3_SW				1				1				1				1
+leds	side_B3_NW																
+leds	side_T1_NE			1				1				1				1	
+leds	side_T1_SE																
+leds	side_T1_SW			1				1				1				1	
+leds	side_T1_NW																
+leds	side_T2_NE																
+leds	side_T2_SE																
+leds	side_T2_SW																
+leds	side_T2_NW																
+leds	side_T3_NE		1				1				1				1		
+leds	side_T3_SE																
+leds	side_T3_SW		1				1				1				1		
+leds	side_T3_NW																
